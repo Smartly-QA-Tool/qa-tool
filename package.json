@@ -1,0 +1,8 @@
+{
+  "name": "qatool",
+  "version": "1.0.0",
+  "description": "A tool for QA team",
+  "main": "index.js",
+  "author": "Lorenciano Dramayo",
+  "license": "MIT"
+}
